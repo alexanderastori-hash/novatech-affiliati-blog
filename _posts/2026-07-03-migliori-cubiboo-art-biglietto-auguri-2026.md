@@ -5,20 +5,20 @@ date: 2026-07-03
 ---
 
 {
-  "hook": "Smetti di spendere soldi in cartucce: questa mini stampante stampa letteralmente senza inchiostro!",
-  "body": "La colleghi al telefono con il bluetooth e stampi di tutto: foto, appunti per la scuola o etichette per organizzare casa. La cosa assurda? Usa la tecnologia termica, quindi l'inchiostro non ti finirà MAI. È tascabile, la ricarichi con il cavetto del telefono e la porti ovunque. Per meno di venti euro è il gadget definitivo.",
-  "cta": "Clicca sul carrello giallo qui sotto prima che finisca lo sconto!",
-  "caption": "La mia vita è cambiata da quando non compro più inchiostro 😭 Stampa tutto in 2 secondi! 👇 Clicca sul carrello! #tiktokshop #gadgetutili",
+  "hook": "Smetti di guardare film sul telefono: ho trasformato il mio soffitto in un cinema con 39€.",
+  "body": "Ho preso questo mini proiettore su TikTok Shop e onestamente ha svoltato le mie serate. Si collega direttamente al Wi-Fi, ha già Netflix e YouTube dentro e la cosa pazzesca è che puoi ruotarlo fino al soffitto. Guardare le serie tv sdraiati a letto così è un’altra cosa. La qualità video è assurda per quanto è piccolo e non serve nemmeno una cassa esterna perché l'audio è già integrato.",
+  "cta": "Clicca sul carrello qui sotto prima che finisca lo sconto del cinquanta percento!",
+  "caption": "La svolta per le tue serate cinema a letto 🍿✨ Lo trovi scontatissimo nel link in basso a sinistra! 👇 #tiktokshop #cinemaacasa #gadgettech",
   "hashtags": [
     "tiktokshop",
-    "stampanteportatile",
-    "schoolhacks",
-    "gadgettech",
-    "prodottivirali"
+    "cinemaacasa",
+    "techitaly",
+    "imperdibili",
+    "regaloutile"
   ],
-  "duration_estimate": 25,
-  "voice_script": "Smetti di spendere soldi in cartucce: questa mini stampante stampa letteralmente senza inchiostro! La colleghi al telefono con il bluetooth e stampi di tutto: foto, appunti per la scuola o etichette per organizzare casa. La cosa assurda? Usa la tecnologia termica, quindi l'inchiostro non ti finirà MAI. È tascabile, la ricarichi con il cavetto del telefono e la porti ovunque. Per meno di venti euro è il gadget definitivo. Clicca sul carrello giallo qui sotto prima che finisca lo sconto!",
-  "style_notes": "Inquadratura POV (in prima persona). Inizia il video mostrando la stampante in azione che fa uscire un foglio stampato nei primi 1.5 secondi. Apri il coperchio per mostrare che all'interno c'è solo un rotolo di carta bianca e nessuna cartuccia. Mostra lo schermo del telefono con l'app che avvia la stampa per evidenziare la facilità d'uso.",
+  "duration_estimate": 35,
+  "voice_script": "Smetti di guardare film sul telefono: ho trasformato il mio soffitto in un cinema con trentanove euro. Ho preso questo mini proiettore su TikTok Shop e onestamente ha svoltato le mie serate. Si collega direttamente al Wi-Fi, ha già Netflix e YouTube dentro e la cosa pazzesca è che puoi ruotarlo fino al soffitto. Guardare le serie tv sdraiati a letto così è tutta un'altra cosa. La qualità video è assurda per quanto è piccolo e l'audio è già integrato. Clicca sul carrello qui sotto prima che finisca lo sconto del cinquanta percento!",
+  "style_notes": "Inquadratura POV (soggettiva) in camera da letto buia. Mostra le mani che accendono il proiettore, poi inquadra immediatamente il soffitto per mostrare l'effetto wow dell'immagine proiettata. Fai un close-up sulla nitidezza del video mentre scorri Netflix con il telecomando.",
   "viral_score": 9,
-  "target_audience": "Studenti delle superiori/università, amanti dell'organizzazione domestica e appassionati di gadget tech economici."
+  "target_audience": "Studenti universitari, amanti di serie TV e cinema, giovani coppie, appassionati di gadget tech economici."
 }
