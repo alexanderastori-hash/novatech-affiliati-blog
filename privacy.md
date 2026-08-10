@@ -18,5 +18,4 @@ Questo sito ("NovaTech Affiliati") non raccoglie dati personali degli utenti tra
 
 ## Contatti
 
-Per domande su questa policy, contatta il gestore del sito tramite GitHub: alexanderastori-hash.
-
+Per qualsiasi domanda relativa a questa informativa sulla privacy, puoi contattarci all'indirizzo: alexanderastori@gmail.com
